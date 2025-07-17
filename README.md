@@ -38,7 +38,7 @@ responsive interfaces.
 
 **Installation and Setup:**
 
-  - Clone the repository:https://github.com/Yamini-Murari/DocSpot-Seamless-Appointment-Booking-For-Health
+  - Clone the repository: https://github.com/Vennelalingam/DocSpot-Seamless-Appointment-Booking-For-Health
   - Install dependencies: npm install
   - Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations.
   - start/connect the development server: npm start or npm run dev
@@ -48,4 +48,4 @@ responsive interfaces.
   - Open the application in your web browser (usually at http://localhost:5000).
   - Register as a patient or doctor (or use login if available).
   - Explore the features and functionality as needed.
-  - 
+    
