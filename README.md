@@ -45,7 +45,7 @@ responsive interfaces.
 
 **Usage:**
 
-  - Open the application in your web browser (usually at http://localhost:5000).
+  - Open the application in your web browser (usually at http://localhost:3000).
   - Register as a patient or doctor (or use login if available).
   - Explore the features and functionality as needed.
     
